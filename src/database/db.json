@@ -1,0 +1,75 @@
+{
+  "products": [
+    {
+      "name": "lays",
+      "price": 2,
+      "discountPercentage": 25,
+      "imageURL": "https://mobileimages.lowes.com/product/converted/028400/028400097802.jpg?size=pdhism",
+      "unitsInStock": "eating"
+    },
+    {
+      "name": "lays",
+      "price": 2,
+      "discountPercentage": 25,
+      "imageURL": "https://images.heb.com/is/image/HEBGrocery/001876605",
+      "unitsInStock": "eating"
+    },
+    {
+      "name": "doritos",
+      "price": 3,
+      "discountPercentage": 25,
+      "imageURL": "https://images.albertsons-media.com/is/image/ABS/970031792?$ng-ecom-pdp-desktop$&defaultImage=Not_Available",
+      "unitsInStock": "eating"
+    },
+    {
+      "name": "chipsim",
+      "price": 1,
+      "discountPercentage": 25,
+      "imageURL": "https://bazarstore.az/2876-home_default/chipsim-pendirli-cipsi-150-gr.jpg",
+      "unitsInStock": "eating"
+    },
+    {
+      "name": "pringles",
+      "price": 2,
+      "discountPercentage": 25,
+      "imageURL": "https://hips.hearstapps.com/hmg-prod/images/pringles-wendys-spicy-chicken-1622133227.jpg",
+      "unitsInStock": "eating"
+    },
+    {
+      "name": "cola",
+      "price": 2,
+      "discountPercentage": 3,
+      "imageURL": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRoZxW_7LjQinwyUMTcAjFTdL1QsppVwhMQ_w&usqp=CAU",
+      "unitsInStock": 3,
+      "isDiscounted": true,
+      "id": "0506e865-83c2-4b5b-b304-fff5aa0c1523"
+    },
+    {
+      "name": "cheetos",
+      "price": 3,
+      "discountPercentage": 8,
+      "imageURL": "https://target.scene7.com/is/image/Target/GUEST_483ba9ca-1084-484a-a5a9-5cc5aa1b0fe8?wid=488&hei=488&fmt=pjpeg",
+      "unitsInStock": 2,
+      "isDiscounted": true,
+      "id": "ef8a8a3f-3655-4886-b49a-96aa2e4113fc"
+    },
+    {
+      "name": "fanta",
+      "price": 3,
+      "discountPercentage": 4,
+      "imageURL": "https://static.insales-cdn.com/images/products/1/970/447570890/unnamed-1.jpg",
+      "unitsInStock": 8,
+      "isDiscounted": true,
+      "id": "01340ef1-23c2-44bd-8762-39c6c7372fea"
+    },
+    {
+      "name": "cici bebe",
+      "price": 4,
+      "discountPercentage": 4,
+      "imageURL": "https://www.pandababy.az/wp-content/uploads/2019/10/8690533091136-1.jpg",
+      "unitsInStock": 5,
+      "isDiscounted": true,
+      "id": "4b48c179-f7b7-4e17-ba30-1aad1d34900c"
+    }
+  ]
+}
